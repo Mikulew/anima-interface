@@ -13,6 +13,7 @@ interface Anima {
     'steady and self-aware 🧘‍♀️',
     'clean and caring for herself🚿🛁',
     'sexy 💋👙👠and stylish 👒🥻👢',
+    'sensitive, protective, supportive 👩‍❤️‍💋‍👨🦸‍♀️',
     'sense of rhythm 🎶',
   ],
   hobbies: ['🎨', '🎼', '👩‍💻'],
